@@ -1,2 +1,2 @@
-# Flower-Python
-A Fibonacci flower using python turtle module.
+# Hex Flower
+A spiral hex flower using python turtle module.
